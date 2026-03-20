@@ -13,7 +13,7 @@
 <br>
 
 ## Sobre o Projeto
-**Game2048InC** é um jogo de puzzle desenvolvido inteiramente em **C puro** para ser executado nativamente no terminal. Inspirado no clássico 2048, este projeto reimagina a jogabilidade adicionando uma mecânica de física e gravidade: em vez de arrastar blocos horizontalmente, o jogador gerencia a queda dos números em um tabuleiro dinâmico de 10x5.
+**Game2048InC** é um jogo de puzzle desenvolvido inteiramente em **C puro** para ser executado nativamente no terminal. Inspirado no clássico 2048, este projeto reimagina a jogabilidade adicionando uma mecânica de física e gravidade: em vez de arrastar blocos horizontalmente, o jogador gerencia a queda dos números em um tabuleiro dinâmico de 10x5. Foi produzido durante o primeiro semestre para a disciplina de Algoritmos e Programação de Computadores.
 
 O objetivo do projeto foi construir um motor de jogo leve via linha de comando (CLI) do zero, lidando com manipulação avançada de matrizes, gerenciamento de estado e persistência de dados.
 
